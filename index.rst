@@ -10,7 +10,7 @@ Welcome to Git & Github - Apssdc's documentation!
    :maxdepth: 2
    :numbered:
    
-   MyNewFile.md
+   MyNewFle.md
 
 
 

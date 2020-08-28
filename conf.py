@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'git & Github - Apssdc'
+project = 'Git & Github - Apssdc'
 copyright = '2020, APSSDC'
 author = 'Srinivas'
 
